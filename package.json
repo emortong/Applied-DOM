@@ -11,6 +11,13 @@
     "type": "git",
     "url": "git+https://github.com/devleague/Applied-DOM.git"
   },
+    "xo": {
+    "esnext": true,
+    "space": true,
+    "globals": [
+      "window"
+    ]
+  },
   "keywords": [],
   "author": "Dev League LLC",
   "license": "ISC",
